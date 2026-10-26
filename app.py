@@ -280,4 +280,4 @@ if submitted:
 
 # --- 6. FOOTER ---
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: #606376; font-size: 14px;'>Matchify © 2025 • All Rights Reserved</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #606376; font-size: 14px;'>Matchify © 2026 • All Rights Reserved</p>", unsafe_allow_html=True)
